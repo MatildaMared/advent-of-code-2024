@@ -20,7 +20,7 @@ Ho ho ho! It's time for another round of advent of code 😊
 
 ### Get Started
 
-- Inside a folder, run `npx ts-node index.ts` to run the main file for that day.
+- Inside a folder, run `npx tsx index.ts` to run the main file for that day.
 
 ---
 
