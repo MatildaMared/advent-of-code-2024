@@ -22,7 +22,6 @@ console.log(`🎄 🎅 The answer to part 1 is: ${partOneSum} 🍬 🍭`);
 const filteredInput = input.split("don't()");
 const filteredCalculations: string[] = [];
 
-// remove everything before do()
 filteredInput.forEach((possibleCalculation) => {
 	const index = possibleCalculation.indexOf("do()");
 	if (index > -1) {
