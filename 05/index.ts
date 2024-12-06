@@ -1,5 +1,4 @@
 import * as fs from "fs";
-import { parse } from "path";
 
 // 🎄 🎅 Advent of Code 2024 Day 5 🎅 🎄
 
